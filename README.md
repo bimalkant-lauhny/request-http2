@@ -15,7 +15,7 @@ For example, see `POST` request below -
 ```js
   var options = {
     method: 'POST',
-      uri: 'https://someurl.com/path,
+      uri: 'https://someurl.com/path',
       http2: true,
       headers: {
         // HEADERS go here
